@@ -1,0 +1,11 @@
+# Ignore environment secrets
+.env
+.env.*
+*.env
+
+# Python cruft
+__pycache__/
+*.pyc
+
+# Docker cruft
+*.log
